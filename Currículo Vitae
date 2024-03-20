@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="Utf-8">
+        <meta name="view port" content="width=device-width, initial-scale=1.0">
+        <title> Actividad 2</title>
+    </head>
+    <body>
+        <section name="imagen" id="imagen">
+            <img src="img/jesus.png" alt="foto" width="300 px" height="300 px">
+            <hr>
+        </section name="texto" id="texto">
+        <section>
+             <h1> jesus </h1>
+             |<p> jesus es alegre y bromista
+                <ul>
+                    <li> <i> La ropa </i></li>
+                    <li><i> Las motos </i></li>
+                </ul>
+                <hr>
+        </section>
+        <section>
+            <ul>
+                <li> <a href="https://www.facebook.com/karoldejesus.castrocorrea?mibextid=LQQJ4d">Facebook</a></li>
+            </section>
+        </body>
+        </html>
