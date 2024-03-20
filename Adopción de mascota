@@ -1,0 +1,24 @@
+<!Doctupe html>
+<html>
+  <head>
+    <meta name ="description" content = "pagian sobre adopcion de mascotas en mexico, naucalpan de juarez">
+    <meta name = "keywords" content = "mascota, ayuda, naucalpan, perritos, animales">
+    <meta name = "author" = content = "30 segundos">
+    <title> inicio | adopta mascotas </title>
+<section id = "imagen" alt ="imagen">
+  </head>
+    <body>
+    </section>
+    <section id = "formulario">
+      <form id = "formulario">
+        <input type ="text" placeholder = "username" id= "caja1">
+       <input type = "text" placeholder = "username" id= "caja2">
+       <select>
+         <option volve= "gatos"> Gatos </option>
+         <option volve= "perros"> Perros </option>
+          </select>
+          <input type ="number" min= "7" max= "10">
+          <button> Enviar </button>
+      </form>
+    </section>
+</html>
