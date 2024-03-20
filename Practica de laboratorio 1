@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maqueta</title>
+</head>
+<body>
+    <!-- seccion navbar menu navegacion-->
+    <section id="menu">
+        <div id="barra navegacion">
+            <ul>
+                <li>Inicio</li>
+                <li>
+                  <a href="Somos.html" target="_blank"> 
+                    Somos
+                </a>  
+                </li>
+                <li>
+                  <a href="#"> 
+                    Proyecto
+                  </a> 
+                </li>
+                <li>
+                 <a href="Contacto.html" target="_blank"> 
+                    Contacto
+                 </a>   
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- termina el menu de navegacion-->
+    <!--inicia texto nosotros-->
+    <section id="Nosotros">
+        <div id="parrafo">
+            <h1>Hola</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem dicta delectus fugiat asperiores ullam
+                 cupiditate a, consequatur porro perferendis magni voluptas quis quisquam at ipsam officiis tempore ratione
+                  iusto vel!</p>
+        </div>
+        <div id="imagen">
+            <h1>Imagen</h1>
+            <img src="img/imagen 1.jpg" alt="paisaje" class="imagen">
+        </div>
+    </section>
+    <!--termina texto nosotros-->
+    <!--inicia estilos css-->
+    <style>
+        #menu{
+            background-color: brown;
+            color: #fff;
+        }
+        #nosotros{
+            background-color: blue;
+        }
+        #imagen{
+            background-color: blueviolet; 
+        }
+        .imagen{
+            background-color: chocolate;
+            border-radius: 50%;
+            width: 200px;
+            height: 200px;
+        }
+        .imagen :hover{
+            width: 400px;
+            height: 400px;
+            transition: 3s;
+        }
+    </style>
+</body>
+</html>
