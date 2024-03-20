@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Mi pagina web 2 </title>
+    </head>
+    <body>
+        <section>
+            <h1>Jesus</h1>
+        </section>
+        <section>
+        <div>17</div>
+        <div>5634281608</div>
+        <div>Informatica</div>
+        </section>
+            <section>
+                <ul>
+                    <li>Gusto1: Salir en moto</li>
+                    <li>Gusto2: Comer</li>
+                    <li>Gusto3: Dormir</li>
+                </ul>
+                </section>
+                <section></section>
+            </body>
